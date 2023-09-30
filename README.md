@@ -11,6 +11,6 @@ Author - Ravikant Rana
 
 
 ### B. Git Stage
-<p> <b> $git add index.html <b> -> This command will add the index.html to git and it will keep trak of this file.
-<p> <b>$git restore --stage index.html<b> -> This command will unstage the index.html file.
+<p> <b> $git add index.html </b> -> This command will add the index.html to git and it will keep trak of this file.
+<p> <b>$git restore --stage index.html </b> -> This command will unstage the index.html file.
 
